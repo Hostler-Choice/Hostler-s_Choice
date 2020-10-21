@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "HostlerChoice"
+    }
+  },
+  "defaultProject": "HostlerChoice",
+  "cli": {
+    "analytics": "dd10bbed-8c55-42e4-8c9b-568ef2974776"
+  }
 }
